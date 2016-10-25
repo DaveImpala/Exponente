@@ -12,7 +12,7 @@ for(i=1;i<=exponente;i++)
     {
     operacion = operacion * numero;
     }
-printf("\t\t%d\n",operacion);
+printf("\t\tEl resultado es:\t%d\n",operacion);
 system("pause");
 return 0;
 }
